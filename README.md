@@ -1,6 +1,6 @@
 # Olá! Sou a Isabella 🌸
 
-Tenho 19 anos e sou estudante de Engenharia de Software no INFNET. Atualmente estou estudando Java e React.
+Tenho 20 anos e sou estudante de Engenharia de Software no INFNET. Atualmente estou estudando Java e React.
 <div>
   <div>
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isabella-araujo&layout=compact&bg_color=FFF&border_color=f17ea1&title_color=f17ea1&text_color=f17ea1" />
