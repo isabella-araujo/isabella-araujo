@@ -22,7 +22,6 @@ Tenho 20 anos e sou estudante de Engenharia de Software no INFNET. Atualmente es
   <ul>
     <li><a href="https://github.com/isabella-araujo/Delicias-da-Carne">Delícias da Carne</a></li>
     <li><a href="https://github.com/isabella-araujo/SisComp">Sistema de Compras</a></li>
-    <li><a href="https://github.com/isabella-araujo/SisComp">Sistema de Compras</a></li>
   </ul>
 </div>
 
